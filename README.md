@@ -17,7 +17,7 @@ Happify's Savor Quest (https://www.happify.com)
 ### Goals
 
 1. Use the prefrontral cortex's 4-7 working memory slots
-2. Expand the unlimited memory of the neocortex in coordination with the hippocampus and basal ganglia via emtional "feelings" and logical active recall
+2. Expand the unlimited memory of the neocortex in coordination with the hippocampus and basal ganglia via emotional "feelings" and logical active recall
 
 ### Captain's Log
 

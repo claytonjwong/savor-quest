@@ -1,5 +1,5 @@
 # Savor Quest
-* https://www.happify.com
+* [happify.com](https://www.happify.com)
 
 ## Context
 

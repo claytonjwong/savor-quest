@@ -1,5 +1,5 @@
-# savor-quest
-Happify's Savor Quest (https://www.happify.com)
+# Savor Quest
+* https://www.happify.com
 
 ## Context
 

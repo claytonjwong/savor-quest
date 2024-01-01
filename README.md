@@ -11,8 +11,8 @@ Happify's Savor Quest (https://www.happify.com)
 
 ## Practice
 
-1. Visualize story of six objects
-2. Find six objects in puzzle
+1. Visualize a story of six objects
+2. Find six objects in the puzzle
 
 ### Goals
 

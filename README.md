@@ -16,8 +16,19 @@
 
 ### Goals
 
-1. Use the 4-7 working memory slots of prefrontral cortex
-2. Expand the unlimited memory the of neocortex
+Improve the brain's **Attention** and **Retention** via daily practice:
+
+* **Attention:**
+  * Focused Awareness Now (the present moment)
+* **Retention:**
+  * Short- and Long-Term Memory Cache
+
+
+### Biological Neuroplasticity
+
+1. Use the prefrontral cortex's working memory slots
+2. Expand the neocortex's unlimited memory
+
 
 ### Captain's Log
 

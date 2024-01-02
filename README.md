@@ -16,8 +16,8 @@
 
 ### Goals
 
-1. Use the prefrontral cortex's 4-7 working memory slots
-2. Expand the unlimited memory of the neocortex in coordination with the hippocampus and basal ganglia via emotional "feelings" and logical active recall
+1. Use the 4-7 working memory slots of prefrontral cortex
+2. Expand the unlimited memory the of neocortex
 
 ### Captain's Log
 

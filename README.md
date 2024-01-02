@@ -14,7 +14,7 @@
 1. Visualize a story of six objects
 2. Find six objects in the puzzle
 
-### Goals
+## Goals
 
 Improve the brain's **Attention** and **Retention** via daily practice:
 
@@ -24,13 +24,13 @@ Improve the brain's **Attention** and **Retention** via daily practice:
   * Short- and Long-Term Memory Cache
 
 
-### Biological Neuroplasticity
+## Biological Neuroplasticity
 
 1. Use the prefrontral cortex's working memory slots
 2. Expand the neocortex's unlimited memory
 
 
-### Captain's Log
+## Captain's Log
 
 * 2024-01-02:
   * 75 seconds

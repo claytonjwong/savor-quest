@@ -1,6 +1,7 @@
 # Savor Quest
 * [happify.com](https://www.happify.com)
 
+
 ## Context
 
 * Finite and Infinte Games (James P. Carse)
@@ -9,10 +10,12 @@
 * Ultralearning (Scott H. Young)
 * Unlimited Memory (Kevin Horsley)
 
+
 ## Practice
 
 1. Visualize a story of six objects
 2. Find six objects in the puzzle
+
 
 ## Goals
 

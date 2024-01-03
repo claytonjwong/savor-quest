@@ -36,9 +36,11 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 ## Captain's Log
 
 * **2024-01-02:**
-  * *75 seconds* - **Tropical Cove:** a Beach Ball wearing Goggles held a Playing Card and Book in his left and right hands correspondingly while a Dolphin jumped
+  * *75 seconds*
+    * **Tropical Cove:** a Beach Ball wearing Goggles held a Playing Card and Book in his left and right hands correspondingly while a Dolphin jumped
  over a Pineapple
-  * *76 seconds* - **Snowy Summit:** I drove my Car wearing a Snow Hat, sipping on a Coffee Mug, while a Dart with a Dollar Bill attached to it flew in through the window and hit me in the Snow Boot
+  * *76 seconds*
+    * **Snowy Summit:** I drove my Car wearing a Snow Hat, sipping on a Coffee Mug, while a Dart with a Dollar Bill attached to it flew in through the window and hit me in the Snow Boot
 * **2024-01-01:**
   * *71 seconds*
 * **2023-12-31:**

@@ -36,7 +36,8 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 ## Captain's Log
 
 * 2024-01-02:
-  * 75 seconds
+  * 75 seconds - Tropical Cove: a Beach Ball wearing Goggles held a Playing Card and Book in his left and right hands correspondingly while a Dolphin jumped
+ over a Pineapple
 * 2024-01-01:
   * 71 seconds
 * 2023-12-31:

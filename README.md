@@ -58,3 +58,6 @@ Improve the brain's **Attention** and **Retention** via daily practice:
     * **Majestic Fjords:** I took a picture with my Camera of a Hot Air Balloon while on my Sail Boat listening to the Radio wearing a Women's Shoe and a Winter Hat
   * *562 seconds*
     * **The Brasserie:** I cut a Vinyl Spade with Scissors while a Bowtie shaped Butterfly flew under my Umbrella
+* **2024-01-06:**
+  * *88 seconds*
+    * **Port Town:** I was looking through Binoculars to find a Broom and instead I found Cherries on a Airplane and a Toothbrush on a Ring

@@ -56,3 +56,5 @@ Improve the brain's **Attention** and **Retention** via daily practice:
     * **Jungle Hike:** I slept on a Pillow snuggling a Medicine Kit, and my wrist was wrapped in a Rose colored Watch with an Oar and Feather comprising the hour- and minute-hand correspondingly
   * *103 seconds*
     * **Majestic Fjords:** I took a picture with my Camera of a Hot Air Balloon while on my Sail Boat listening to the Radio wearing a Women's Shoe and a Winter Hat
+  * *562 seconds*
+    * **The Brasserie:** I cut a Vinyl Spade with Scissors while a Bowtie shaped Butterfly flew under my Umbrella

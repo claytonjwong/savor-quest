@@ -67,3 +67,6 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 * **2024-01-08:**
   * *83 seconds*
     * **Picnic in a Park:** A Frog ate a Fly, a Duck ate a Wallet, and a Parrot sipped upon a Coffee Cup
+* **2024-01-09:**
+  * *117 seconds*
+    * **Home Sweet Home:** A Bird ate from a Jam Jar before I Combed and Perfumed my hair, then I bought a DVD online for a Dollar

@@ -83,3 +83,6 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 * **2024-01-12:**
   * *78* seconds
     * **Backyard Retreat:** I photographed a Plane with my Camera while eating a Steak with a Spoon, then suddenly a Dart struck my Slipper
+* **2024-01-13:**
+  * *692* seconds
+    * **Underwater Escape:** I used a Spoon to retrieve a Message In A Bottle and instead found a Camera with zoom used as Binoculars to see a Bird applying Lipstick to it's beak

@@ -92,3 +92,6 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 * **2024-01-15:**
   * *102* seconds
     * **City Walk:** I stepped on Sandwich with my Shoe while using an Umbrella as a Paint Brush to paint a Crown upon a Bird
+* **2024-01-16:**
+  * *85* seconds
+    * **The Brasserie:** I didn't have a Pencil, so I used Lip Stick to write on the Newspaper while waving my Cane at a Feathered Butterfly

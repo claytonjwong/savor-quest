@@ -95,3 +95,6 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 * **2024-01-16:**
   * *85* seconds
     * **The Brasserie:** I didn't have a Pencil, so I used Lip Stick to write on the Newspaper while waving my Cane at a Feathered Butterfly
+* **2024-01-17:**
+  * *112* seconds
+    * **Blissful Bungalow:** A Bird poured Perfume into a Vase and Glass Pitcher while a Ducked watched though his Sunglasses

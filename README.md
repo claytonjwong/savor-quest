@@ -101,3 +101,6 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 * **2024-01-18:**
   * *89* seconds
     * **Tranquil Lake:** I accidentally stabbed myself in the Eye with a Kitchen Knife while looking for a Key in a Book and decorating a Vase with a Paint Brush
+* **2024-01-19:**
+  * *71* seconds
+    * **The Carnival:** I broke my Piggy Bank to buy a Camera to take a picture of an Apple wearing a Funny Hat and Baseball Cap holding a Briefcase

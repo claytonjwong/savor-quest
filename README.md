@@ -104,3 +104,6 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 * **2024-01-19:**
   * *71* seconds
     * **The Carnival:** I broke my Piggy Bank to buy a Camera to take a picture of an Apple wearing a Funny Hat and Baseball Cap holding a Briefcase
+* **2024-01-21:**
+  * *72* seconds
+    * **Home Sweet Home:** The Cucumber got stuck in the Jam Jar while using a Rake to clean the Perfume spilt on a DVD, then used an Eraser as a sponge to soak up the mess

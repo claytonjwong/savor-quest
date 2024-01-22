@@ -107,3 +107,6 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 * **2024-01-21:**
   * *72* seconds
     * **Home Sweet Home:** The Cucumber got stuck in the Jam Jar while using a Rake to clean the Perfume spilt on a DVD, then used an Eraser as a sponge to soak up the mess
+* **2024-01-22:**
+  * *74* seconds
+    * **Port Town:** I cleaned with a Broom searching for my Wallet and Passport when a Fly landed on a Wrench-shaped Fork

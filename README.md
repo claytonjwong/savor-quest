@@ -116,3 +116,6 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 * **2024-01-24:**
   * **56** seconds
     * **Port Town:** A Thermos wearing Glasses smoked a Pipe, then made a Wrench by attaching a Ring to a Toothbrush
+* **2024-01-25:**
+  * **95** seconds
+    * **The Carnival:** The Heart-shaped Dice got stuck in a Cupcake since they were thrown like a Bowling Ball, so I used my Broom to sweep them into a Funny Hat

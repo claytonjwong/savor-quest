@@ -125,3 +125,6 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 * **2024-01-30:**
   * **131** seconds
     * **Desert Trek:** A Bird wearing a Hat smoking a Pipe wrote on the Ring of a Gas Can with a Pencil
+* **2024-01-31:**
+  * **64** seconds
+    * **Home Sweet Home:** A Bird found a Coffee Bean in a Balloon then used an Eraser to clean the Perfume spilt on his Glasses

@@ -137,3 +137,6 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 * **2024-02-05:**
   * **221** seconds
     * **Mountain Temple:** I searched my Briefcase for a Pen, when a Dolphin jumped up and ate the Apple from my left-hand and the Braclet of Grapes on my right-wrist
+* **2024-02-07:**
+  * **149** seconds
+    * **The Carnival:** I rolled Dice and smoked a Pipe, then donned a Glove to steal a Piggy Bank but accidentally smeared Lipstick from the Pipe onto a Book at the crime scene

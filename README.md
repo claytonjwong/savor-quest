@@ -140,3 +140,6 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 * **2024-02-07:**
   * **149** seconds
     * **The Carnival:** I rolled Dice and smoked a Pipe, then donned a Glove to steal a Piggy Bank but accidentally smeared Lipstick from the Pipe onto a Book at the crime scene
+* **2024-02-08:**
+  * **60** seconds
+    * **Tranquil Lake:** I noticed Cheese in my Water Bottle and a Paint Brush in my Suitcase, clearly Signs indicating my Eyesight has improved

@@ -144,4 +144,8 @@ Improve the brain's **Attention** and **Retention** via daily practice:
   * **60** seconds
     * **Tranquil Lake:** I noticed Cheese in my Water Bottle and a Paint Brush in my Suitcase, clearly Signs indicating my Eyesight has improved
 * **2024-02-09:**
-  * **Home Sweet Home:** A Banana crashed a Train into a Chocolate Bar while distracted by a Butterfly; then the Banana purchased a Eraser for a Dollar to cleanup the mess
+  * **106** seconds
+    * **Home Sweet Home:** A Banana crashed a Train into a Chocolate Bar while distracted by a Butterfly; then the Banana purchased a Eraser for a Dollar to cleanup the mess
+* **2024-02-13:**
+  * **77** seconds
+    * **Blissful Bungalow:** A King wore a Hat with a Crown on it and held a Coffee Mug with the Key to the empire in it, which smelled of sweet Perfume

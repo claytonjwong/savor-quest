@@ -158,3 +158,6 @@ Improve the brain's **Attention** and **Retention** via daily practice:
 * **2024-02-20:**
   * **63** seconds
     * **Home Sweet Home:** While playing Ping Pong with a Coffee bean, I knocked over an Ice Cream Cone onto my Smartphone, then put on Glasses to find a Dollar bill to pay for the phone to be fixed
+* **2024-02-21:**
+  * **207** seconds
+      * **City Walk:** A Chocolate Ball talked to a Bird on a Cell Phone about cutting a Coin in half with Scissors
